@@ -18,10 +18,13 @@ lakh rows and 32 columns.
 2.   Our Dataset has 4 columns with float64  dtype, 16 columns with int64 dtype, and 12       columns with object dtype.
 
 3.   In our Dataset, we observed null values in the following columns:
-4.   
+  
 ●4 null values in the children column 
-●488 null values in the country column 
+
+●488 null values in the country column
+
 ●16,340 null values in the agent column 
+
 ●112,593null values in the company column
 
 
