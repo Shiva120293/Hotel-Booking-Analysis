@@ -18,42 +18,77 @@ lakh rows and 32 columns.
 2.   Our Dataset has 4 columns with float64  dtype, 16 columns with int64 dtype, and 12       columns with object dtype.
 
 3.   In our Dataset, we observed null values in the following columns:
-●4 null values in the children column ●488 null values in the country column ●16,340 null values in the agent column ●112,593null values in the company column
+4.   
+●4 null values in the children column 
+●488 null values in the country column 
+●16,340 null values in the agent column 
+●112,593null values in the company column
 
 
 We  have the following column names provided to us in the dataset,
 
 ●	hotel
+
 ●	is_canceled
+
 ●	lead_time
+
 ●	arrival_date_year
+
 ●	arrival_date_month
+
 ●	arrival_date_week_number
+
 ●	arrival_date_day_of_month
+
 ●	stays_in_weekend_nights
+
 ●	stays_in_week_nights
+
 ●	adults
+
 ●	children
+
 ●	babies
+
 ●	meal
+
 ●	country
+
 ●	market_segment
+
 ●	distribution_channel
+
 ●	is_repeated_guest
+
 ●	previous_cancellations
+
 ●	previous_bookings_not_canceled
+
 ●	reserved_room_type
+
 ●	assigned_room_type
+
 ●	booking_changes
+
 ●	deposit_type
+
 ●	agent
+
 ●	company
+
 ●	days_in_waiting_list
+
 ●	Customer_type
+
 ●	adr
+
 ●	required_car_parking_spaces
+
 ●	total_of_special_requests
+
 ●	reservation_status
+
 ●	reservation_status_date
 
 
@@ -89,6 +124,8 @@ Suggestions based upon insights to build a sound marketing strategy.
 ●	‘Direct’, ‘GDS’ and ‘TA/TO’ channels deliver the highest AM-ADR across all the months. More monthly marketing budget could be allocated to these channels to maximize AM-ADR.
  
 ●	‘Corporate’ channel delivers the most repeated guests. New Letters, updates, and other promotional material should be sent to corporate clients, monthly to keep in touch with them and to further increase the number of repeated guests.
+
 ●	Cancellation percentages are consistently high for the ‘TA/TO’ channel across all months. A deposit should be taken from guests delivered by the ‘TA/TO’ distribution channel to cut down losses and operational inefficiencies.
+
 ●	‘TA/TO’ channel delivers guests who make the most special requests across all months, followed by guests delivered by the ‘Direct’ channel. Special requests add to the revenue of the hotel and so, customers from the ‘TA/TO’ and ‘Direct’ channels should be offered to avail of special requests by the staff as frequently as possible to increase the special requests that are made.
 
